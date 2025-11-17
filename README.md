@@ -13,6 +13,7 @@ Welcome to GitHub Docs! GitHub’s documentation is open source, meaning anyone 
 
 -restore data factory 
 -change admin 
+-delet payjoy
 
 There are two GitHub Docs repositories: 
 
